@@ -1,0 +1,32 @@
+{
+  "name": "relative-time-webcomponent-test-node",
+  "version": "1.0.0",
+  "description": "Testing the relative-time webcomponent in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --tap",
+    "spec": "ava --verbose",
+    "dev": "ava --watch"
+  },
+  "keywords": [
+    "webcomponents",
+    "relative-time",
+    "unit testing",
+    "node"
+  ],
+  "author": "Lay Flags <code@layfla.gs>",
+  "license": "MIT",
+  "devDependencies": {
+    "ago": "^1.0.0",
+    "ava": "^0.16.0",
+    "browser-env": "^2.0.11",
+    "delay": "^1.3.1",
+    "document-register-element": "^1.2.0",
+    "requestanimationframe": "0.0.23",
+    "standard": "^8.4.0",
+    "timekeeper": "^0.1.1"
+  },
+  "dependencies": {
+    "relative-time-webcomponent": "^1.0.6"
+  }
+}
