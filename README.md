@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/layflags/relative-time-webcomponent-test-node.svg?style=svg)](https://circleci.com/gh/layflags/relative-time-webcomponent-test-node)
+
 # Testing the [relative-time webcomponent](https://github.com/ryanhefner/relative-time-webcomponent) in Node.js
 
 ## Setup
