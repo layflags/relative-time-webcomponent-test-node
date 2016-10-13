@@ -3,7 +3,8 @@
 ## Setup
 
 ```sh
-git clone https://github.com/layfags/relative-time-webcomponent-test-node.git
+git clone https://github.com/layflags/relative-time-webcomponent-test-node.git
+cd relative-time-webcomponent-test-node
 npm install
 ```
 
